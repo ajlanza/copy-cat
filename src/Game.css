@@ -1,0 +1,11 @@
+button {
+    margin: 0px;
+    height: 150px;
+    width: 150px;
+}
+
+.startButton {
+    background-color:white;
+    height: auto;
+    width: auto;
+}
